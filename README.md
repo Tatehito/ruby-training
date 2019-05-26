@@ -1,0 +1,1 @@
+[こちらの記事](https://qiita.com/jnchito/items/2fedbfa9f887635e6c6a)に掲載されていた「Ruby力向上のための基礎トレーニング」の回答です。
